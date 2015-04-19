@@ -10,3 +10,4 @@ Faili:
 - sakuma-populacijas-generesana.php - sākuma populācijas ģenerēšana
 
 Tiešsaistē var apskatīt šeit: http://faili.deiveris.lv/genetiskais-algoritms1/
+Google API distanču matrica: http://faili.deiveris.lv/genetiskais-algoritms2/distancu-matrica.php
